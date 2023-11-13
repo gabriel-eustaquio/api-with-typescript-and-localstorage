@@ -1,0 +1,23 @@
+body {
+  font-family: "Poppins";
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+button {
+  text-transform: uppercase;
+  background-color: #caf;
+  padding: 16px 8px;
+  border-radius: 4px;
+  border: none;
+}
+
+div {
+  background-color: #e7e7e7;
+  margin-top: 5px;
+  padding: 10px;
+}
